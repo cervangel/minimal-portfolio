@@ -1,7 +1,7 @@
 export default [
     {
         title: "Static Website",
-        imgUrl: 'public/assets/static website screenshot.png',
+        imgUrl: '/assets/static website screenshot.png',
         stack: ['HTML', 'CSS'],
         link:'https://angelcervantes-webprogamming.netlify.app',
     },
