@@ -24,7 +24,7 @@ export default [
         title: "List",
         imgUrl: ' /assets/Todo-list-screenshot.png',
         stack: ['React, JavaScript'],
-        link:'https://github.com/cervangel/todo-list',
+        link:'https://github.com/cervangel/todo-list-react',
     },
 
 ]
