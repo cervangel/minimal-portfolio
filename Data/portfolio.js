@@ -10,13 +10,21 @@ export default [
         title: "Snake Game",
         imgUrl: '/assets/Snake Game Screen Title.png',
         stack: ['Processing3', 'Java'],
-        link:'',
+        link:'https://github.com/cervangel/Snake-Game',
     },
 
     {
         title: "MySQL Project",
-        imgUrl: 'public/assets/Database Shelter screenshot.png',
+        imgUrl: ' /assets/Database Shelter screenshot.png',
         stack: ['MySQL'],
         link:'https://docs.google.com/document/d/149DkG3aSJ0uybYrcYYMCIU7AbkQp4WgNyt0N7XfvyvA/edit?usp=sharing',
     },
+
+    {
+        title: "List",
+        imgUrl: ' /assets/Todo-list-screenshot.png',
+        stack: ['React, JavaScript'],
+        link:'https://github.com/cervangel/todo-list',
+    },
+
 ]
