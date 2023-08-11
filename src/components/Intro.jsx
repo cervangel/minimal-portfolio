@@ -8,7 +8,9 @@ function Intro(){
             UHD Alumni BS in Computer Science with interest in fullstack development
             </p>
             <p className="text-sm max-w-xl mb-6 font-bold">
-                I graduated from the University of Houston-Downtown in May 20, 2023. I am eager to grow as a fullstack develepor.
+            I graduated from the University of Houston-Downtown with a Bachelor of Computer Science,
+            and on my own time I practice and have some experience with JavaScript and ReactJS, and tailwind. 
+            I have a strong knowledge of object-oriented programming, leading a team, and the process of developing projects. 
             </p>
         </div>
     )

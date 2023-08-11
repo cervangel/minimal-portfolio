@@ -6,12 +6,14 @@ import Footer from './components/Footer';
 import Portfolio from './components/Portfolio';
 import Timeline from './components/Timeline';
 import ProfilePicture from './components/ProfilePicture';
+import SocialMediaLinks from './components/SocialMediaLinks';
 
 function App() {
   
   return (
     <div className="App">
     <ProfilePicture />
+    
       <Intro />
       <Portfolio />
       <Timeline />

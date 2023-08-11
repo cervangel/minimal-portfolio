@@ -22,7 +22,7 @@ export default [
     }, 
     {
         year: '2021',
-        title: 'Junior Year F Semester',
+        title: 'Junior Year Fall Semester',
         classes: 'Intro to Wireless Networsks, History of Geology, History of Geology Lab',
         description: 'This is my last semester at UHD I am currently taking these last courses before I graduate'
     },
@@ -42,13 +42,13 @@ export default [
         year: '2021',
         title: 'Sophmore Year Spring Semester',
         classes: 'Digital Logic, Intro to Theory of Computation',
-        description: 'This was my second semester at the University of Houston-Downtown I learn the logic of computers.'
+        description: 'In my second semester at the University of Houston-Downtown I learn computer logic and computer computation.'
     },
     {
         year: '2020',
         title: 'Sophmore Year Fall Semester',
         classes: 'Software Engineering',
-        description: "I return to a university to finish my Bachelor's. I transferred some credits over to the University of Houston-Downtown." 
+        description: "I transfered to the University of Houston-Downtown to finish my Bachelor's of Science in Computer Science." 
     },
 
 ]
