@@ -14,7 +14,7 @@ export default [
     },
 
     {
-        title: "MySQL Project",
+        title: "Animal Shelter Database",
         imgUrl: ' /assets/Database Shelter screenshot.png',
         stack: ['MySQL'],
         link:'https://docs.google.com/document/d/149DkG3aSJ0uybYrcYYMCIU7AbkQp4WgNyt0N7XfvyvA/edit?usp=sharing',
