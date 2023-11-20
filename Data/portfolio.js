@@ -1,5 +1,12 @@
 export default [
     {
+        title: "Game Hub",
+        imgUrl: '/assets/gamehub-screenshot.jpg',
+        stack: ['React', 'TypeScript'],
+        link:'https://game-hub-git-main-angel-cervantes-projects.vercel.app',
+    },
+
+    {
         title: "Static Website",
         imgUrl: '/assets/static website screenshot.png',
         stack: ['HTML', 'CSS'],
@@ -9,7 +16,7 @@ export default [
     {
         title: "Snake Game",
         imgUrl: '/assets/Snake Game Screen Title.png',
-        stack: ['Processing3', 'Java'],
+        stack: ['Python'],
         link:'https://github.com/cervangel/Snake-Game',
     },
 
